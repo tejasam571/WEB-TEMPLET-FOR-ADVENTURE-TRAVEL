@@ -1,0 +1,1036 @@
+
+.back img{
+
+    position: absolute;
+    width: 1440px;
+    height: 602px;
+    left: 0px;
+    top: 0px;
+    
+    
+
+}
+nav img{
+    position: absolute;
+width: 91px;
+height: 85px;
+left: 53px;
+top: 24px;
+
+}
+.A{
+    position: absolute;
+width: 440px;
+height: 106px;
+left: 45px;
+top: 14px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 33px;
+line-height: 42px;
+text-align: center;
+color: #FFFFFF;
+}
+nav{
+
+ position: relative;  
+ font-family: 'Outfit';
+ font-style: normal;
+ font-weight: 100;
+ font-size: 24px;
+ line-height: 30px;
+ text-align: center;
+justify-content: space-between;
+
+ }
+
+ nav ul li{
+    display: inline-block;
+    list-style:decimal-leading-zero;
+    margin: 10px 20px;
+ }
+  
+ nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+ }
+ .B {
+    
+position:absolute;
+width: 88px;
+height: 42px;
+left: 1120px;
+top: 33px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 100;
+font-size: 30px;
+line-height: 42px;
+
+ }
+ .B a{
+text-align: center;
+text-decoration: none;
+color: #000000;
+ }
+ .C {
+    position: absolute;
+width: 106px;
+height: 42px;
+left: 1252px;
+top: 33px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 100;
+font-size: 30px;
+line-height: 42px;
+ }
+
+.C a{
+text-align: center;
+text-decoration: none;
+color: #000000;
+ }
+ .mid img{
+    position: absolute;
+    width: 1440px;
+    height: 422px;
+    left: 0px;
+    top: 602px;
+    
+    
+ }
+  .D p{
+    position: absolute;
+width: 690px;
+height: 454px;
+left: 31px;
+top: 270px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 900;
+font-size: 96px;
+line-height: 121px;
+
+color: #F4F4F4;
+  }
+
+  .E button{
+    box-sizing: border-box;
+
+position: absolute;
+width: 170px;
+height: 49px;
+left: 894px;
+top: 743px;
+
+background: rgba(226, 212, 212, 0.61);
+border: 1px solid #000000;
+
+  }
+  .E button a{
+width: 155px;
+height: 30px;
+left: 908px;
+top: 752px;
+text-decoration: none;
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 30px;
+
+color: #FFFFFF;
+  }
+  div p{
+    position: absolute;
+width: 1062px;
+height: 175px;
+left: 43px;
+top: 828px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 100;
+font-size: 33px;
+line-height: 42px;
+color: #FFFFFF;
+  }
+.F img{
+    position: absolute;
+width: 636px;
+height: 395px;
+left: 38px;
+top: 1100px;
+border-radius: 1px;
+}
+.F h1{
+    position: absolute;
+width: 103px;
+height: 44px;
+left: 81px;
+top: 1300px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 33px;
+line-height: 42px;
+
+color: #FFFFFF;
+}
+.F p{
+    position: absolute;
+width: 423px;
+height: 76px;
+left: 80px;
+top: 1350px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+}
+.G img{
+    position: absolute;
+width: 650px;
+height: 395px;
+left: 760px;
+top:1100px;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.G h1{
+    position: absolute;
+width: 193px;
+height: 54px;
+left: 815px;
+top: 1300px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 33px;
+line-height: 42px;
+
+color: #FFFFFF;
+}
+.G p{
+    position: absolute;
+width: 513px;
+height: 75px;
+left: 809px;
+top: 1350px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+
+color: #FFFFFF;
+}
+.H img{
+    position: absolute;
+width: 120px;
+height: 77px;
+left: 20px;
+top: 1500px;
+}
+.H h4{
+    
+position: absolute;
+width: 632px;
+height: 89px;
+left: 90px;
+top: 1540px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+
+color: #000000;
+}
+.H p{
+    
+position: absolute;
+width: 493px;
+height: 53px;
+left: 90px;
+top: 1650px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 200;
+font-size: 32px;
+line-height: 40px;
+
+color: #000000;
+}
+.H p1{
+    position: absolute;
+width: 367px;
+height: 116px;
+left: 78px;
+top: 1750px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 200;
+font-size: 16px;
+line-height: 20px;
+
+color: #000000;
+
+
+}
+.H p2{
+    
+position: absolute;
+width: 342px;
+height: 167px;
+left: 526px;
+top: 1750px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 200;
+font-size: 16px;
+line-height: 20px;
+
+color: #000000;
+}
+.sideimage img{
+    position: absolute;
+width: 376px;
+height: 487px;
+left: 1008px;
+top: 1500px;
+}
+.H button{
+    
+position: absolute;
+width: 257px;
+height: 47px;
+left: 81px;
+top: 1900px;
+
+background: #D9D9D9;
+}
+.H button a{
+    position: absolute;
+    text-decoration: none;
+width: 192px;
+height: 20px;
+left: 30px;
+top: 14px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 200;
+font-size: 13px;
+line-height: 16px;
+
+color: #000000;
+
+
+}
+.bottom img{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 77px 0px 0px;
+gap: 284px;
+
+position: absolute;
+width: 1247px;
+height: 144px;
+left: 96.11px;
+top: 2000px;
+}
+.bottom p{
+    position: absolute;
+width: 200px;
+height: 42px;
+left: 62px;
+top: 2100px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+}
+.bottom p1{
+    position: absolute;
+width: 200px;
+height: 42px;
+left: 446px;
+top: 2125px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+}
+.bottom p2{
+    position: absolute;
+width: 148px;
+height: 30px;
+left: 813px;
+top: 2125px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+}
+.bottom p3{
+    
+position: absolute;
+width: 139px;
+height: 30px;
+left: 1170px;
+top: 2125px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+}
+.imagebot img{
+   position: absolute;
+width: 1440px;
+height: 759px;
+left: 0px;
+top: 2200px;
+}
+.img1 img{
+    position: absolute;
+width: 316px;
+height: 505px;
+left: 73px;
+top: 2250px;
+
+background: url(young-woman-by-the-lake-in-obersee-e1622437991907.jpg);
+}
+.img2 img{
+    position: absolute;
+width: 347px;
+height: 298px;
+left: 428px;
+top: 2220px;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.img3 img{
+    position: absolute;
+width: 463px;
+height: 263px;
+left: 417px;
+top: 2540px;
+}
+.imagebot p{
+    position: absolute;
+width: 110px;
+height: 40px;
+left: 795px;
+top: 2370px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+}
+.imagebot p1{
+    position: absolute;
+width: 476px;
+height: 66px;
+left: 795px;
+top: 2430px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 45px;
+
+color: #000000;
+}
+.imagebot p2{
+    position: absolute;
+width: 494px;
+height: 286px;
+left: 908px;
+top: 2480px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 25px;
+
+color: #000000;
+}
+.Bu button{
+    position: absolute;
+width: 125px;
+height: 37px;
+left: 932px;
+top: 2800px;
+
+background: #FFFBFB;
+opacity: 0.9;
+}
+.Bu button a{
+position: absolute;
+text-decoration: none;
+width: 103px;
+height: 24px;
+left: 5px;
+top: 5px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 200;
+font-size: 16px;
+line-height: 20px;
+
+color: #000000;
+
+
+}
+.bottompage p{
+    position: absolute;
+width: 115px;
+height: 28px;
+left: 77px;
+top: 3000px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+
+color: #000000;
+}
+.bottompage p1{
+    position: absolute;
+width: 538px;
+height: 55px;
+left: 79px;
+top: 3050px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 45px;
+
+color: #000000;
+}
+.bottompage p2{
+    position: absolute;
+width: 546px;
+height: 189px;
+left: 80px;
+top: 3100px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+
+color: #000000;
+}
+.bottompage p3 a{
+    
+position: absolute;
+width: 546px;
+height: 189px;
+left: 180px;
+top: 3220px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+
+color: #000000;
+}
+.bottompage button{
+    
+position: absolute;
+width: 116px;
+height: 40px;
+left: 91px;
+top: 3280px;
+
+background: #FFFBFB;
+}
+.imgA img{
+    position: absolute;
+width: 303px;
+height: 179px;
+left: 853px;
+top: 3000px;
+}
+.imgB img{
+    
+position: absolute;
+width: 206px;
+height: 335px;
+left: 1172px;
+top: 3000px;
+}
+.imgC img{position: absolute;
+    width: 177px;
+    height: 276px;
+    left: 954px;
+    top: 3200px;
+}
+.imgD img{
+    position: absolute;
+width: 204px;
+height: 131px;
+left: 1141px;
+top: 3350px;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.imgE img{
+    
+position: absolute;
+width: 427px;
+height: 262px;
+left: 60px;
+top: 3600px;
+
+background: url(bali.png);
+}
+.imgE p{
+    position: absolute;
+width: 131px;
+height: 23px;
+left: 86px;
+top: 3750px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+
+color: #FFFFFF;
+ }
+ .imgE p1{
+    
+position: absolute;
+width: 290px;
+height: 40px;
+left: 86px;
+top: 3800px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 200;
+font-size: 16px;
+line-height: 20px;
+
+color: #FFFFFF;
+ }
+ .imgF img{
+    position: absolute;
+width: 413px;
+height: 262px;
+left: 514px;
+top: 3600px;
+ }
+ .imgF p{
+    position: absolute;
+width: 111px;
+height: 20px;
+left: 531px;
+top: 3750px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+
+color: #FFFFFF;
+ }
+ .imgF p1{
+    position: absolute;
+width: 340px;
+height: 40px;
+left: 531px;
+top: 3800px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 200;
+font-size: 16px;
+line-height: 20px;
+
+color: #FFFAFA;
+ }
+ .imgG img{
+    position: absolute;
+width: 424px;
+height: 262px;
+left: 954px;
+top: 3600px;
+
+
+ }
+ .imgG p{
+    position: absolute;
+width: 90px;
+height: 20px;
+left: 971px;
+top: 3750px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+
+color: #FFFFFF;
+ }
+ .imgG p1{
+    
+position: absolute;
+width: 374px;
+height: 65px;
+left: 971px;
+top: 3800px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 200;
+font-size: 16px;
+line-height: 20px;
+
+color: #FFFFFF;
+ }
+ .imgG button{
+    
+position: absolute;
+width: 176px;
+height: 48px;
+left: 650px;
+top: 3900px;
+
+background: #FFFBFB;
+ }
+ .imgG button p{
+    
+position: absolute;
+width: 95px;
+height: 19px;
+left: 40px;
+top: 0px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 200;
+font-size: 16px;
+line-height: 20px;
+
+color: #000000;
+ }
+ .endpage img{
+    position: absolute;
+width: 284.94px;
+height: 70px;
+left: 258px;
+top: 4000px;
+ }
+ .endpage1 img{
+    position: absolute;
+width: 300px;
+height: 64.6px;
+left: 858px;
+top: 4000px;
+ }
+ .solidblock img{
+    position: absolute;
+width: 1440px;
+height: 350px;
+left: 0px;
+top: 4100px;
+
+background: rgba(0, 0, 0, 0.11);
+ }
+ .endblock p{
+    position: absolute;
+width: 114px;
+height: 25px;
+left: 75px;
+top: 4120px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+ }
+ .endblock p1{
+    position: absolute;
+width: 468px;
+height: 162px;
+left: 75px;
+top: 4190px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 81px;
+
+color: #000000;
+
+
+ }
+ .endblock input{
+    position: absolute;
+width: 350px;
+height: 50px;
+left: 550px;
+top: 4250px ;
+font-size: medium;
+
+background: #f1d0d0;
+ }
+ .subcribe button{
+    
+position: absolute;
+width: 250px;
+height: 65px;
+left: 1090px;
+top: 4250px;
+
+background: rgba(14, 14, 14, 0.6);
+ }
+ .subcribe button p1{
+    position: absolute;
+width: 175px;
+height: 18px;
+left: 50px;
+top: 20px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 300px;
+font-size: 20px;
+line-height: 25px;
+
+color: #ffffff;
+ }
+ .subcribe img{
+    position: absolute;
+width: 41.13px;
+height: 40px;
+left: 1100px;
+top: 4265px;
+ }
+ .endposter img{
+    position: absolute;
+    width: 195px;
+height: 166px;
+flex-shrink: 0; 
+left: 50px;
+top: 4500px;
+ }
+ .endposter p{
+    position: absolute;
+    display: flex;
+width: 365px;
+height: 158px;
+flex-direction: column;
+flex-shrink: 0;
+color: #000;
+font-size: 16px;
+font-family: Outfit;
+font-weight: 300; 
+left: 50px;
+top: 4650px;
+ }
+.endposter h5{
+  position: absolute;
+  display: flex;
+width: 155px;
+height: 30px;
+flex-direction: column;
+flex-shrink: 0;
+color: #000;
+font-size: 24px;
+font-family: Outfit;
+font-weight: 500; 
+left: 500px;
+top: 4600px;
+}
+.endposter h6{
+    position: absolute;
+    display: flex;
+  width: 155px;
+  height: 30px;
+  flex-direction: column;
+  flex-shrink: 0;
+  color: #000;
+  font-size: 24px;
+  font-family: Outfit;
+  font-weight: 500; 
+  left: 500px;
+  top: 4630px;
+  }
+  .endposter p1{
+    position: absolute;
+    display: flex;
+width: 68px;
+height: 30px;
+flex-direction: column;
+flex-shrink: 0;
+color: #000;
+font-size: 24px;
+font-family: Outfit;
+font-weight: 500; 
+left: 800px;
+top: 4610px;
+  }
+  .endposter p2{
+    display: flex;
+width: 135px;
+height: 26px;
+flex-direction: column;
+flex-shrink: 0;
+color: #000;
+font-size: 16px;
+font-family: Outfit;
+font-weight: 300; 
+left: 770px;
+top: 4670px;
+  }
+  .endposter p3{
+    position: absolute;
+    display: flex;
+width: 68px;
+height: 30px;
+flex-direction: column;
+flex-shrink: 0;
+color: #000;
+font-size: 24px;
+font-family: Outfit;
+font-weight: 500; 
+left: 800px;
+top: 4720px;
+
+  }
+  .endposter p4{
+    position: absolute;
+    width: 284px;
+    height: 39px;
+    flex-direction: column;
+    text-decoration: none;
+    flex-shrink: 0;
+    color: #000;
+    font-size: 16px;
+    font-family: Outfit;
+    font-weight: 300; 
+    left: 730px;
+    top: 4760px;
+
+  }
+  .endposter p5{
+    position: absolute;
+    display: flex;
+width: 68px;
+height: 30px;
+flex-direction: column;
+flex-shrink: 0;
+color: #000;
+font-size: 24px;
+font-family: Outfit;
+font-weight: 500; 
+left: 1100px;
+top: 4630px;
+
+  }
+  .map img{
+    width: 40px;
+height: 40px;
+flex-shrink: 0; 
+left: 1100px;
+top:4660px ;
+  }
+  .endposter p6{
+    position: absolute;
+    text-decoration: none;
+width: 211px;
+height: 46px;
+flex-direction: column;
+flex-shrink: 0;
+color: #000;
+font-size: 16px;
+font-family: Outfit;
+font-weight: 300; 
+left: 1150px;
+top: 4670px;
+  }
+.endposter p7{
+    position: absolute;
+    display: flex;
+width: 68px;
+height: 30px;
+flex-direction: column;
+flex-shrink: 0;
+color: #000;
+font-size: 24px;
+font-family: Outfit;
+font-weight: 500; 
+left: 1100px;
+top: 4720px;
+
+
+}
+.socialmedia img{
+    position: absolute;
+    width: 150px;
+height: 47.892px;
+left: 1100px;
+top: 4750px;
+
+}
